@@ -1,2 +1,2 @@
 # Projet-5-Realiser-une-etude-de-sante-publique-avec-R-ou-Python
-Etude sur la sous-nutrition dans le monde
+Réaliser une étude de grande ampleur sur le thème de la sous-nutrition dans le monde à partir des données de la FAO.
